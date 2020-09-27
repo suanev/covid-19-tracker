@@ -3,14 +3,14 @@ Site que mostra a evolução de casos de covid, tanto de um país especifico, co
 
 ## Tecnologias utilizadas
 
-[Diasease API](https://disease.sh/)
-[Material UI](https://material.io/)
-[React-Leaflet](https://react-leaflet.js.org/)
-[Leaflet](https://leafletjs.com/)
-[Chart.js](https://www.chartjs.org/)
-[React Chart.js](https://github.com/jerairrest/react-chartjs-2)
-[Numeral](https://github.com/adamwdraper/Numeral-js)
-[Sass](https://sass-lang.com/)
+* [Diasease API](https://disease.sh/)
+* [Material UI](https://material.io/)
+* [React-Leaflet](https://react-leaflet.js.org/)
+* [Leaflet](https://leafletjs.com/)
+* [Chart.js](https://www.chartjs.org/)
+* [React Chart.js](https://github.com/jerairrest/react-chartjs-2)
+* [Numeral](https://github.com/adamwdraper/Numeral-js)
+* [Sass](https://sass-lang.com/)
 
 ## Demo
 [Live Demo](https://covid-13-tracker.web.app/)
