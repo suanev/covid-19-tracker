@@ -15,7 +15,7 @@ Site que mostra a evolução de casos de covid, tanto de um país especifico, co
 ## Demo
 [Live Demo](https://covid-13-tracker.web.app/)
 <p align="center">
-    <img src="https://imgur.com/a/i2X4S0r" alt="Preview Live Demo Image">
+    <img src="https://i.imgur.com/ko1JVlH.png" alt="Preview Live Demo Image">
 </p>
 
 ## Creditos
